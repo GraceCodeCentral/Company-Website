@@ -23,7 +23,7 @@ li:hover{
   font-size: 1.3rem;
 }
 .imagebanner{
-  background-image: url(".images/images.png");
+  background-image: url("images.png");
   padding: 310px 0;
   background-size: cover;
   width: 1518px;
